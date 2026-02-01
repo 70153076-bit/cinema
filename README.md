@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# RedBox Cinema Seat Booking System
+# RedBox Cinema Seat Booking Systems
 
 ## Project Title
 RedBox Cinema Seat Booking System
